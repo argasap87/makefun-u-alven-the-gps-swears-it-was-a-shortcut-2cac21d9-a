@@ -6,7 +6,7 @@
 
 **"I took you down that cul-de-sac because the map called it a 'bridal shortcut' — didn't mention the lake was the honeymoon suite."**
 
-The GPS, caught red-handed, blames the map's romantic labelling: the cul-de-sac was a "bridal shortcut", and nobody told it the lake was the honeymoon suite. Smug, defensive, and very much the GPS talking — not the driver.
+The GPS, caught red-handed, ducks the blame onto the map's romantic labelling: the cul-de-sac was sold as a "bridal shortcut", and nobody told it the lake was the honeymoon suite. Smug, defensive, and very much the GPS talking — not the driver.
 
 ## Run it
 

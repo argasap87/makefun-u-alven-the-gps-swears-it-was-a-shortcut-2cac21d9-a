@@ -4,9 +4,9 @@
 // road to <output dir>/entry.txt (MAKEFUN_OUTPUT_DIR, default /output).
 // Node 22+ stdlib only. No network, no external files.
 //
-// The hook: the map labelled the cul-de-sac a "bridal shortcut" and never
-// mentioned the lake was the honeymoon suite — the GPS blames the map's
-// romantic labelling, smug and defensive, caught red-handed.
+// The hook: the map sold the cul-de-sac as a "bridal shortcut" and never
+// said the lake was the honeymoon suite — the GPS ducks the blame onto the
+// map's romantic labelling, smug and defensive, caught red-handed.
 
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
